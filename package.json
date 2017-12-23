@@ -9,7 +9,8 @@
     "es"
   ],
   "bin": {
-    "pcreate-node": "./es/bin/pcreate-node"
+    "pcreate-node": "./es/bin/pcreate-node",
+    "pc-node": "./es/bin/pcreate-node"
   },
   "devDependencies": {
     "@types/inquirer": "0.0.36",
