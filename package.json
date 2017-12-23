@@ -1,6 +1,6 @@
 {
   "name": "pcreate-node",
-  "version": "1.0.0-beta4",
+  "version": "1.0.0-beta5",
   "description": "pcreate-node",
   "main": "./es/index.js",
   "module": "./es/index.js",
