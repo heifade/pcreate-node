@@ -16,7 +16,7 @@ pcreate-node
 
 # 安装
 ```bash
-npm install pcreate-node
+npm install pcreate-node -g
 ```
 
 # 介绍
